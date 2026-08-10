@@ -498,16 +498,6 @@ This project brings together several important concepts from the Machine Vision 
 
 ---
 
-# 👨‍💻 Team
-
-**Machine Vision Project**
-
-* Keshav Sharma
-* Rishika Deshmukh
-* Rajat Yogesh Murhe
-
----
-
 # ⭐ Conclusion
 
 SafeRide demonstrates how a practical road-safety problem can be approached using **classical Computer Vision techniques**.
